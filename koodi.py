@@ -9,5 +9,10 @@ def multiply(a, b):
 def reduce(a, b):
     return a - b
 
+
 def divide(a, b):
     return a / b
+
+
+def modulo(a, b):
+    return a % b
